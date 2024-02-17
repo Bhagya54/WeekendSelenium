@@ -7,5 +7,6 @@ public abstract class AbstractClass {
 	}
 	//abstract
 	public abstract void m2();
+	
 
 }

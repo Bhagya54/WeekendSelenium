@@ -1,6 +1,8 @@
 package day6;
 
-public class AbstractionDemo {
+import day7.Student;
+
+public class AbstractionDemo{
 /*Abstraction:
  * idea/feature.. Implementation is being hidden
  * 

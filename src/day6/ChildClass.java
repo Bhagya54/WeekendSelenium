@@ -8,8 +8,6 @@ public class ChildClass extends AbstractClass{
 		
 	}
 	
-	public void m1() {
-		System.out.println("M1 implemented in child class");
-	}
+	
 
 }
