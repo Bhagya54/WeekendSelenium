@@ -42,6 +42,7 @@ public class ArrayListDemo {
 		System.out.println(list);
 		
 		//list.remove(2);
+	
 		System.out.println(list);
 		System.out.println(list.indexOf(34));
 		
